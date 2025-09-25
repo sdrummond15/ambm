@@ -2061,7 +2061,7 @@ a.readmore-link-c {
     display: none;
     position: absolute;
     visibility: hidden;
-    right: 40px;
+    right: 0px;
     bottom: 6px;
 }
 
@@ -2322,6 +2322,10 @@ a.readmore-link-c {
         margin: auto;
     }
 
+    #header {
+        height: 7.25em;
+    }
+
     #box_placeholder {
         width: 96%;
     }
@@ -2367,6 +2371,29 @@ a.readmore-link-c {
 @media screen and (max-width:1024px) {
     #topmenu_wrap {
         display: none;
+    }
+
+    .img_cumuruxatiba {
+        max-width: 100vw;
+        height: auto;
+        text-align: center;
+    }
+
+    .img_cumuruxatiba img {
+        padding: auto;
+    }
+
+    #header {
+        height: 5em;
+    }
+
+    #img_aplicacao {
+        height: auto;
+        max-width: 100vw;
+    }
+
+    .objetivos {
+        max-width: 100vw;
     }
 
     .gotomenu {
@@ -2664,10 +2691,6 @@ a.readmore-link-c {
 
     #logo a {
         margin: auto;
-    }
-
-    .menutop {
-        width: 100%;
     }
 
     #search_wrap {
