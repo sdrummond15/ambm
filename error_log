@@ -1,0 +1,5 @@
+[25-Feb-2025 19:15:42 America/Fortaleza] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home2/ambmcom/public_html/plugins/content/sigplus/metadata.php on line 325
+[25-Feb-2025 19:15:45 America/Fortaleza] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home2/ambmcom/public_html/plugins/content/sigplus/metadata.php on line 325
+[05-Mar-2025 03:50:49 America/Fortaleza] PHP Warning:  Undefined array key "company" in /home2/ambmcom/public_html/components/com_contact/controllers/contact.php on line 156
+[11-Jul-2025 17:44:40 America/Fortaleza] PHP Warning:  Undefined array key "company" in /home2/ambmcom/public_html/components/com_contact/controllers/contact.php on line 156
+[17-Sep-2025 12:27:23 America/Fortaleza] PHP Warning:  Undefined array key "company" in /home2/ambmcom/public_html/components/com_contact/controllers/contact.php on line 156
